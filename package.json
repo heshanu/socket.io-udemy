@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/heshanu/socket.io-udemy#readme",
   "dependencies": {
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "ws": "^7.5.1"
   }
 }
